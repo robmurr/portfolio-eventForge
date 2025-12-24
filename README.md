@@ -1,7 +1,7 @@
 # EventForge - Portfolio Project
 
 ## Overview
-A backend platform for ingesting, processing, and analyzing high-volume event data.
+EventForge is a backend service that collects events from applications, processes them asynchronously, and exposes analytics about system behavior.
 
 ## Architecture
 < Will be explained >
